@@ -13,4 +13,4 @@ end
 fido = Dog.new
 
 
-fido.inspect
+puts fido.inspect
